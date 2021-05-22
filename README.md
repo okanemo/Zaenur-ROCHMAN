@@ -13,3 +13,8 @@ Requirement
 3. PHP Version: PHP7-fpm
 4. Webserver: Nginx
 5. Container: Docker (Not docker-compose)
+6. Create the documentation how to run the application
+
+Extra Plus:
+1. If has phpunit for testing each of the functionalities.
+2. Use helper as global rules.
